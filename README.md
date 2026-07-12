@@ -1,0 +1,1 @@
+"This repository represents my very first steps into the world of programming with Python. As a Management Information Systems student, I created this space to archive my initial coding experiences, fundamental algorithms, and basic logic practices. It serves as the foundation of my journey toward data science and artificial intelligence."
